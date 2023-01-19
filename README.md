@@ -1,9 +1,9 @@
 # Teaching Bayesian modeling with <br> Bayes Rules!
 
-## Talk at International Society for Bayesian Analysis World Meeting
+## Talk at Bayes@Lund 2023
 
 <hr>
 
-[Slides :computer: Slides](https://mdogucu.github.io/isba-2022) 
+[Slides :computer: Slides](https://mdogucu.github.io/bayes-lund-2023) 
 
 
