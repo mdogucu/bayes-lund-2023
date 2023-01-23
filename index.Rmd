@@ -1,7 +1,7 @@
 ---
-title: "Teaching Bayesian modeling with <br> Bayes Rules!"
+title: "Teaching Bayesian Modeling with <br> Bayes Rules!"
 author: "Mine Dogucu, Ph.D. <br> University College London <br>University of California Irvine"
-subtitle: "[mdogucu.github.io/bayes-lund-2023](https://mdogucu.github.io/bayes-lund-2023) <br> <br>Talk at Bayes@Lund </i>"
+subtitle: "[mdogucu.github.io/bayes-lund-2023](https://mdogucu.github.io/bayes-lund-2023) <br> <br>Talk at Bayes @ Lund </i>"
 date: "2023-01-23"
 output:
   xaringan::moon_reader:
@@ -63,7 +63,7 @@ knitr::include_graphics("img/bayes-courses-us.png")
 ```
 
 
-<a href="https://www.tandfonline.com/doi/abs/10.1080/00031305.2022.2089232" style="font-size: 22px">Dogucu, M., & Hu, J. (2022). The Current State of Undergraduate Bayesian Education and Recommendations for the Future. The American Statistician.</a>
+<a href="https://www.tandfonline.com/doi/abs/10.1080/00031305.2022.2089232" style="font-size: 22px">Dogucu, M., & Hu, J. (2022). The Current State of Undergraduate Bayesian Education and Recommendations for the Future. The American Statistician. 76:4, 405-413, DOI: 10.1080/00031305.2022.2089232</a>
 
 
 ---
@@ -129,6 +129,28 @@ Miles Ott
 ]
 
 ---
+
+
+class: center middle
+
+```{r echo=FALSE, fig.align='center', out.width="25%", fig.alt="Stats 115 course logo with prior, likelihood, and posterior plots!"}
+knitr::include_graphics("img/stats-115-logo.png")
+```
+
+[Introduction to Bayesian Data Analysis](https://www.stats115.com)
+
+---
+
+class: middle
+
+## Background of students taking the course
+
+- Prerequisite: STATS 120C. Introduction to Probability and Statistics III
+- Recommended: STATS 110. Statistical Methods for Data Analysis I
+- Students: Data Science major (required), Statistics minor (elective)
+
+---
+
 
 
 
@@ -252,15 +274,7 @@ knitr::include_graphics("img/unit4.png")
 
 ]
 
----
 
-class: middle
-
-## Background of students taking the course
-
-- Prerequisite: STATS 120C. Introduction to Probability and Statistics III
-- Recommended: STATS 110. Statistical Methods for Data Analysis I
-- Students: Data Science major (required), Statistics minor (elective)
 
 
 
@@ -842,6 +856,11 @@ readxl::read_xlsx("accessibility-checklist.xlsx") %>%
   
 ```
 
+---
+
+class: middle
+
+.font75[Current and Future Projects]
 
 ---
 
@@ -871,15 +890,13 @@ knitr::include_graphics("img/bats-logo.png")
 
 .large[`r fontawesome::fa(name = "link")`] <a href = "https://www.stat.uci.edu/bayes-bats/">stat.uci.edu/bayes-bats</a>  
 
+
+
 ---
 
-class: center middle
+class: middle
 
-```{r echo=FALSE, fig.align='center', out.width="25%", fig.alt="Stats 115 course logo with prior, likelihood, and posterior plots!"}
-knitr::include_graphics("img/stats-115-logo.png")
-```
-
-[Introduction to Bayesian Data Analysis](https://www.stats115.com)
+Dogucu, M., Kazak, S. & Rosenberg J. (forthcoming) **The Design and Implementation of a Bayesian Data Analysis Lesson for Pre-Service Mathematics and Science Teachers**
 
 ---
 
