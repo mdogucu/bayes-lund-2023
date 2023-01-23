@@ -275,10 +275,16 @@ knitr::include_graphics("img/unit4.png")
 ]
 
 
+---
 
+class: middle
+
+.font75[Examples]
 
 
 ---
+
+
 
 class: middle center
 
@@ -596,7 +602,7 @@ mh_tour <- function(N, w){
 
 ---
 
-```{r cache=TRUE}
+```{r cache=TRUE, warning=TRUE}
 set.seed(84735)
 mh_simulation_1 <- mh_tour(N = 5000, w = 1)
 ```
@@ -882,14 +888,17 @@ class: middle
 
 ## Bayes BATS
 
-NSF DUE awards: #2215879, #2215920, and #2215709.
 
-```{r echo=FALSE, fig.alt="NSF logo", out.width = "30%", fig.align="center"}
+
+```{r echo=FALSE, fig.alt="NSF logo", out.width = "20%", fig.align="center"}
 knitr::include_graphics("img/bats-logo.png")
 ```
 
+w/ [Monika Hu](https://pages.vassar.edu/jihu/) and [Amy Herring](https://sta198f2021.github.io/website/authors/amy/)
+
 .large[`r fontawesome::fa(name = "link")`] <a href = "https://www.stat.uci.edu/bayes-bats/">stat.uci.edu/bayes-bats</a>  
 
+NSF DUE awards: #2215879, #2215920, and #2215709.
 
 
 ---
@@ -902,6 +911,8 @@ Dogucu, M., Kazak, S. & Rosenberg J. (forthcoming) **The Design and Implementati
 
 
 class: middle
+
+## Resources
 
 - [Bayes Rules! resources](https://bayes-rules.github.io/)
 
